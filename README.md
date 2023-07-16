@@ -6,8 +6,8 @@ Este é um repositório que contém um jogo Pong implementado na Unity utilizand
 <img src="Screenshot/2023-07-16-03-23-50-_online-video-cutter.com_-_1_.gif">
 
 ## Pré-requisitos
--Unity 20XX.X.X ou superior.
--IDE de desenvolvimento (como Visual Studio ou Visual Studio Code).
+- Unity 20XX.X.X ou superior.
+- IDE de desenvolvimento (como Visual Studio ou Visual Studio Code).
 
 ## Aprendizagem
 - A IA aprende a cada vez que a bola bate em uma das paredes. O cálculo do erro é dado pela distância entre a posição onde a bola tocou na parede e a posição da raquete. Esse valor é multiplicado pela taxa de aprendizagem de 0.01.
